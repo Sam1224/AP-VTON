@@ -1,0 +1,4 @@
+stage1/checkpoints
+stage1/tensorboard
+stage1/testdata
+stage1/traindata
