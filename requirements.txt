@@ -19,7 +19,7 @@ mkl-random==1.0.1
 numpy==1.18.1
 olefile==0.46
 Pillow==5.2.0
-protobuf==3.7.1
+protobuf==3.18.3
 pycparser==2.19
 PyYAML==5.1
 requests==2.22.0
